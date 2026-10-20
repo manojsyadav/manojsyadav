@@ -1,6 +1,6 @@
 ### Hi, I'm Manoj 👋
 
-**DevOps by day, homelab enthusiast by night.** Passionate about building resilient systems, self-hosted homelab, and local-first automation.
+**Software engineer by day, homelab tinkerer and gamer by night.** Passionate about building resilient systems, self-hosted homelab, and local-first automation. Building, breaking, and self-hosting.
 
 Most of my day-to-day work lives in private repositories and self-hosted environments. Some projects will make their way to the open source world once I get around to documenting them properly. 😉
 
@@ -19,4 +19,4 @@ In the meantime, explore selected architecture write-ups and projects on my webs
 - 🕵️ **Crawler (PriceWatch):** Async hyperlocal e-commerce inventory & price intelligence engine (Python, AsyncIO).
 - 🚀 **mDeploy:** Automated estate deployment pipeline with 33/33 architectural parity enforcement.
 
-**Tools I use most:** Go, Rust, Python, TypeScript, Kotlin, Docker, Linux, PostgreSQL, PowerShell, Git.
+**Tools I use most:** Go, Rust, Python, Java. PHP, TypeScript, Kotlin, Docker, Linux, PostgreSQL, PowerShell, Git.
